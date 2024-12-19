@@ -32,7 +32,7 @@ Welcome to the URL Slice Application! This project is a fast, reliable, and easy
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jawnchuks/url-shortener.git
+   git clone https://github.com/jawnchuks/url-slice.git
    cd url-shortener
    ```
 
