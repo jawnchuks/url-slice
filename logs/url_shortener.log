@@ -1,2 +1,4 @@
 2024-12-19 09:54:15.653 | INFO     | app.main:startup_event:25 - Application started
 2024-12-19 10:03:02.683 | INFO     | app.main:shutdown_event:29 - Application shutting down
+2024-12-19 10:27:54.881 | INFO     | app.main:startup_event:25 - Application started
+2024-12-19 10:41:59.281 | INFO     | app.main:startup_event:25 - Application started
