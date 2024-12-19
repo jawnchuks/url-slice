@@ -1,6 +1,6 @@
-# URL Shortener Application
+# URL Slice Application
 
-Welcome to the URL Shortener Application! This project is a fast, reliable, and easy-to-use service for creating shortened URLs. It is built using **Python**, **FastAPI**, and comes with an interactive API documentation powered by **Swagger**.
+Welcome to the URL Slice Application! This project is a fast, reliable, and easy-to-use service for creating shortened URLs. It is built using **Python**, **FastAPI**, and comes with an interactive API documentation powered by **Swagger**.
 
 ---
 
@@ -32,7 +32,7 @@ Welcome to the URL Shortener Application! This project is a fast, reliable, and 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/url-shortener.git
+   git clone https://github.com/jawnchuks/url-shortener.git
    cd url-shortener
    ```
 
@@ -134,6 +134,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact
 
 For any inquiries or issues, please contact:
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **Email**: your-email@example.com
-
+- **GitHub**: [jawnchuks](https://github.com/jawnchuks)
+- **Email**: jawnchuks@gmail.com
